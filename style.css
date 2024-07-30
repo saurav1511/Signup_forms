@@ -1,0 +1,53 @@
+/* .attribution { font-size: 11px; text-align: center; color: white;}
+    .attribution a { color: hsl(228, 45%, 44%); }
+
+
+
+    body {
+
+        background-color: rgb(54,58,76);
+        font-family: Roboto;
+      
+    }
+
+    .main-container {
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     background-color: white;
+     border-radius: 20px;
+     margin: 0 auto;
+     max-width: 800px;
+
+    }
+
+
+    .inside_para {
+       font-size: 40px;
+       font-weight: 600;
+    }
+
+    .small_para {
+      font-size: 14px;
+    }
+
+    span {
+      font-size: 14px;
+      padding-left: 10px;
+      text-align: center;
+    }
+
+    .form_picture svg {
+      width: 100%;
+      height: auto;
+    }
+
+    .form_picture {
+
+      padding: 20px;
+    }
+
+    .form_data {
+padding: 20px 10px 20px 60px;
+
+    } */
